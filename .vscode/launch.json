@@ -14,7 +14,7 @@
             "type": "java",
             "name": "DemoApplication",
             "request": "launch",
-            "mainClass": "com.example.demo.DemoApplication",
+            "mainClass": "com.example.backend.DemoApplication",
             "projectName": "demo"
         }
     ]
